@@ -10,3 +10,14 @@ a = a.toSet().toList();
   var b =[5,8,6,5,9];
   a.removeWhere((e)=>b.contains(e));
   print(a);
+
+
+(3).
+List<dynamic> a =[1,2,3,4,5,6,7,8,9,10];
+
+for (var x in a) {
+  if (x%2 ==0) {
+    print(x);
+    
+  }
+ }
