@@ -36,9 +36,28 @@ for (var i = 2; i < a; i++) {
   }
   }
 
+(5).
 
 if (b.elementAt(0)!=1) {
   print("this is a prime number");
 } else {
   print("this is not a Prime Number");
 }
+
+
+var a =7;
+  for(var i=1; i<=15;i++){
+    var x = a*1;
+    print("$a * $i = $x");
+  }
+  
+(6).
+List<dynamic> fruits = ["apple", "banana", "mango", "orange" , "strawberry"];
+
+for (var i in fruits) {
+  print(i);  
+}          
+
+
+
+
