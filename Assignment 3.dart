@@ -21,3 +21,24 @@ for (var x in a) {
     
   }
  }
+
+(4).
+  var a = 12;
+  var b = [];
+
+for (var i = 2; i < a; i++) {
+  if (a%i==0) {
+    var d =1;
+    b.add(d);
+  }else{
+    var e =0;
+    b.add(e);
+  }
+  }
+
+
+if (b.elementAt(0)!=1) {
+  print("this is a prime number");
+} else {
+  print("this is not a Prime Number");
+}
