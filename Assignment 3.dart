@@ -36,15 +36,14 @@ for (var i = 2; i < a; i++) {
   }
   }
 
-(5).
-
 if (b.elementAt(0)!=1) {
   print("this is a prime number");
 } else {
   print("this is not a Prime Number");
 }
 
-
+(5).
+  
 var a =7;
   for(var i=1; i<=15;i++){
     var x = a*1;
